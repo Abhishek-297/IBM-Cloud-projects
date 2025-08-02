@@ -17,4 +17,24 @@ While working on this project, I also explored advanced AI concepts such as **Re
 - ✅ **Web Deployment using IBM Cloud Object Storage**
 - ✅ **Conversational Interface powered by IBM Watson Assistant**
 - ✅ **Learned Concepts: AutoAI Machine Learning & RAG Techniques**
+___
+
+## IBM Cloud Services Used
+
+IBM Watsonx.ai Studio (Agentic AI workflows)
+
+IBM Cloud Object Storage (For Static Website Deployment)
+
+IBM Watson Assistant (Conversational AI Interface)
+
+___
+##🙌 Internship & Acknowledgements
+
+This project was completed as part of the:
+
+AICTE-IBM SkillsBuild Internship via Edunet Foundation
+
+Special thanks to IBM Mentors & SkillsBuild Learning Paths for practical guidance.
+
+Learned additional concepts like RAG Techniques and AutoAI Automation during the internship.
 
