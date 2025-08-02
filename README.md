@@ -32,9 +32,9 @@ ___
 
 This project was completed as part of the:
 
-AICTE-IBM SkillsBuild Internship via Edunet Foundation
+AICTE-IBM SkillsBuild and  Edunet Foundation intership 
 
-Special thanks to IBM Mentors & SkillsBuild Learning Paths for practical guidance.
+Special thanks to Edunet Foundation Mentors & IBM SkillsBuild Learning Paths for practical guidance.
 
 Learned additional concepts like RAG Techniques and AutoAI Automation during the internship.
 
