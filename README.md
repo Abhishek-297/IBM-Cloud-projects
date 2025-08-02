@@ -21,9 +21,9 @@ ___
 
 ## IBM Cloud Services Used
 
-IBM Watsonx.ai Studio (Agentic AI workflows)
+IBM Watsonx.ai Studio
 
-IBM Cloud Object Storage (For Static Website Deployment)
+IBM Cloud Object Storage 
 
 IBM Watsonx Runtime service 
 
