@@ -25,7 +25,7 @@ IBM Watsonx.ai Studio (Agentic AI workflows)
 
 IBM Cloud Object Storage (For Static Website Deployment)
 
-IBM Watson Assistant (Conversational AI Interface)
+IBM Watsonx Runtime service 
 
 ___
 ## 🙌 Internship & Acknowledgements
