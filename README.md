@@ -28,7 +28,7 @@ IBM Cloud Object Storage (For Static Website Deployment)
 IBM Watson Assistant (Conversational AI Interface)
 
 ___
-##🙌 Internship & Acknowledgements
+## 🙌 Internship & Acknowledgements
 
 This project was completed as part of the:
 
